@@ -1,7 +1,7 @@
 # HAMBURGUERIA JK
 <img src="https://github.com/MatheusPereira033/hamburgueria-JS-HTML-CSS-TailwindCSS/blob/main/Apresenta%C3%A7%C3%A3o%20hamburgueria%20jk.gif?raw=true" alt="Video GIF">
 <p>O projeto trata-se de uma hamburgueria. Nela o usuário pode verificar o cardápio dos hamburgueres e adicionar ao carrinho o que deseja e quantas quantidades quiser, além das bebidas também. O projeto consegue se adaptar tanto em telas mobiles quanto em telas web. Além disso o usuário consegue fechar o carrinho e limpa-lo. Tambem é possível finalizar o pedido direcionando o usuário para o whatsapp com as informações do pedido.</p>
-Verifique o Projeto: https://github.com/MatheusPereira033/hamburgueria-JS-HTML-CSS-TailwindCSS](https://matheuspereira033.github.io/hamburgueria-JS-HTML-CSS-TailwindCSS/)
+Verifique o Projeto: https://github.com/MatheusPereira033/hamburgueria-JS-HTML-CSS-TailwindCSS
 <br>
 <h2>:dart: Recursos</h2>
 :heavy_check_mark: Visualização do protótipo no Figma e base de informções de estilização no próprio Figma;<br>
